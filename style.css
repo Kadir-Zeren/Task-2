@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  text-align: center;
+  font-size: 80px;
+  letter-spacing: 3px;
+  font-family: "Rubik Vinyl", cursive;
+}
+
+.section-s {
+  background-color: rgb(173, 73, 73);
+  width: 752px;
+  height: 245px;
+  padding: 10px;
+  margin: auto;
+  margin-top: 20px;
+}
+
