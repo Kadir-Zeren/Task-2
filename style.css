@@ -18,4 +18,13 @@ h1 {
   margin: auto;
   margin-top: 20px;
 }
-
+.h3-s {
+  font-family: "EB Garamond", serif;
+  color: #f4a460;
+  font-size: 32px;
+  text-align: center;
+}
+.p-s{
+    text-align:justify;
+    color: white;
+}
