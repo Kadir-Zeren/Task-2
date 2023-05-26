@@ -55,10 +55,12 @@ h1 {
   text-align: center;
 }
 .a-s:hover {
-  width: 150px;
-  height: 50px;
+  width: 9rem;
+  height: 3rem;
+  transition: all 0.2s ease-in 0s;
 }
-.img-s:hover{
-  width: 350px;
-  height: 200px;
+.img-s:hover {
+  height: 210px;
+  transition: all 0.2s ease-in 0s;
+  cursor: pointer;
 }
