@@ -39,6 +39,7 @@ h1 {
 .img-s {
   height: 200px;
   float: left;
+  transition: all 0.5s;
 }
 .a-s {
   text-decoration: none;
@@ -53,14 +54,13 @@ h1 {
   margin: 10px 25px;
   border-radius: 5px;
   text-align: center;
+  transition: all 0.5s;
 }
 .a-s:hover {
   width: 9rem;
   height: 3rem;
-  transition: all 0.2s ease-in 0s;
 }
 .img-s:hover {
   height: 210px;
-  transition: all 0.2s ease-in 0s;
   cursor: pointer;
 }
