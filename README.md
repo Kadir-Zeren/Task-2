@@ -1,2 +1,2 @@
 # Task-2
-(Task-2.gif)
+<img src="./Task-2.gif">
